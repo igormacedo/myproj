@@ -4,5 +4,5 @@
 int main()
 {
   std::cout << "Hello World!";
-  std::cout << "New change! Bazinga!! Plus";
+  std::cout << "New change! Bazinga!!";
 }
